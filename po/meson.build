@@ -1,0 +1,17 @@
+langs = [	'am','ar','as','ast','az','be','bg',
+			'bn_IN','bn','br','bs','ca','ca@valencia',
+			'cmn','cs','cy','da','de','dz','el',
+			'en_AU','en_CA','en_GB','eo','es_CO',
+			'es_MX','es','et','eu','fa','fi','fr',
+			'frp','fur','ga','gl','gu','he','hi',
+			'hr','hu','hy','id','is','it','ja','jv',
+			'ka','kk','kn','ko','ku_IQ','ku','ky',
+			'la','lt','lv','mai','mg','mk','ml',
+			'mn','mr','ms','nb','nds','ne','nl',
+			'nn','oc','or','pa','pl','pms','ps',
+			'pt_BR','pt','ro','ru','rw','si','sk',
+			'sl','sq','sr@latin','sr','sv','ta',
+			'te','th','tr','ug','uk','ur','uz',
+			'vi','wa','xh','zh_CN','zh_HK','zh_TW'	]
+
+i18n.gettext('mate-calc', languages: langs)
